@@ -157,7 +157,7 @@ This project is licensed under the [MIT License](LICENSE) — fork and modify fr
 
 ## Author
 
-**[Arif (@arifislaminfo)](https://github.com/arifislaminfo)** — CSE student building practical projects in C and Python.
+**[Arif (@arifislaminfo)](https://github.com/arifislaminfo)** — EEE student building practical projects in C and Python.
 
 If this helped you, give the repo a **star** and feel free to **fork** it.
 
